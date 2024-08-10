@@ -1,0 +1,14 @@
+
+.myForm 
+{
+display: flex;
+flex-direction: column;
+gap: 20px;
+}
+
+.duplicate
+{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
